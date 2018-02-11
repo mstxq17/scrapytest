@@ -1,6 +1,3 @@
-# scrapytest
-scrapy test  for  practical coding
-
 # Application
 the script pyhon can  craw latest articles from https://paper.seebug.org/ and produce a page including articles  
 
